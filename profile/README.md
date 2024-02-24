@@ -1,6 +1,6 @@
 ### Hey, this is us 👋🏻
 
-![Banner](./assets/banner.svg)
+![Banner](../assets/banner.svg)
 
 Imagine this, you created your project which has potential to change the world, and you are just one step away from the deployment! But you are facing many issues deploying to the cloud. Worry not!
 
